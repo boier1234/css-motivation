@@ -2,8 +2,7 @@ body { background-color: black ;
     }
 .motivational {
     border: 5px solid white;
-    width: 100%;
-
+    width: 100%
 }
 .belive {
     width:50%  ;
@@ -13,8 +12,6 @@ body { background-color: black ;
     font-family: 'Libre Baskerville', serif;
     text-align: center;
     margin-top: 100px;
-   
-
 }
 h1 {
     text-transform: uppercase;
