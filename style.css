@@ -22,8 +22,8 @@ h1 {
 }
 footer {
     color:white;
-    font-size: small;
     margin-top: 100%;
     font-family: 'Merriweather', serif;
     pading: 10px ;
+    text-align: center;
 }
